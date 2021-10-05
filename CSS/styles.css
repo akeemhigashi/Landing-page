@@ -1,0 +1,117 @@
+.top-container {
+  background-color: #8CA1A5;
+  padding-top: 100px;
+  position: relative;
+  line-height: 2;
+}
+
+.middle-container {
+  background-color: #787A91;
+  padding-top: 40px;
+}
+
+.bottom-container {
+  background-color: #C8C6C6;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Explora', cursive;
+  color: #000000;
+}
+
+h2 {
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 2rem;
+  color: #000000;
+}
+
+h3 {
+  font-family: 'Gemunu Libre', sans-serif;
+  color: #BD4B4B;
+}
+a {
+  color: #11999E;
+}
+.Underheading{
+  font-weight: normal;
+}
+
+.you {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 500px;
+}
+
+.Intro {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 40px;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.HTML-CSS {
+  margin-right: 30px;
+  width: 25%;
+  height: 25%;
+  float: left;
+}
+
+.UX {
+  margin-left: 30px;
+  width: 15%;
+  height: 15%;
+  float: right;
+}
+
+hr {
+  margin-bottom: 20px;
+  border-style: dotted;
+  border-bottom: 0;
+  border-width: 10px;
+  width: 10%;
+  border-color:#EAF6F6;
+}
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 10px;
+   font-weight: normal;
+   padding: 10px;
+   background-color: #444444;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+  margin-bottom: 20px;
+}
